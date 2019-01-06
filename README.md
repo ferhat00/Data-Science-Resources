@@ -74,7 +74,11 @@ Too mathematical and abstract with not so good examples. Definition and symbols 
 
 * Think Stats: Exploratory Data Analysis by Allen Downey 2*
 
-Not much detail. Good simple explanations, but overall too simplistic and lacks depth. Plus a lot of the functions the author uses he wrote himself. It’s perhaps better to stick to the established libraries such as pandas and statsmodels to do similar work.
+Not much detail. Good simple explanations, but overall too simplistic and lacks depth. Plus a lot of the functions the author uses he wrote himself. It’s perhaps better to stick to the established libraries such as pandas and statsmodels to do similar work
+
+* Statistical Modeling: A Fresh Approach by Danny Kaplan
+
+* Applied Predictive Modeling by Max Kuhn and Kjell Johnson
 
 #### Artificial Intelligence and Machine Learning
 
